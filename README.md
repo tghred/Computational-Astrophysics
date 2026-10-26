@@ -53,7 +53,7 @@ Whether you are a physics student looking to learn Python, or a data scientist f
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Computational-Astrophysics-Python.git
+   git clone https://github.com/tghred/Computational-Astrophysics-Python.git
 ```
 
 1. Install the required dependencies:
