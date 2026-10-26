@@ -27,10 +27,10 @@ Whether you are a physics student looking to learn Python, or a data scientist f
 *(This structure will grow as I progress through the book)*
 
 *   **Part I: The Tools of Astronomy**
-    *   `Ch2_Celestial_Mechanics`: Kepler's Laws, Elliptical Orbits, and Projectile Motion.
+    *   `CH02_Celestial_Mechanics`: Kepler's Laws, Elliptical Orbits, and Projectile Motion.
 *   **Part II: The Nature of Stars**
-    *   `Ch7_Stellar_Properties`: Stellar Parallax, Magnitudes, and Blackbody Radiation.
-    *   `Ch8_The_Sun`: Stellar Structure and Energy Transport.
+    *   `CH07_Stellar_Properties`: Stellar Parallax, Magnitudes, and Blackbody Radiation.
+    *   `CH08_The_Sun`: Stellar Structure and Energy Transport.
 *   **Part III: Galaxies and the Universe**
     *   *(Coming Soon)*
 
@@ -53,7 +53,7 @@ Whether you are a physics student looking to learn Python, or a data scientist f
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Computational-Astrophysics-Python.git
+   git clone https://github.com/tghred/Computational-Astrophysics-Python.git
 ```
 
 1. Install the required dependencies:
